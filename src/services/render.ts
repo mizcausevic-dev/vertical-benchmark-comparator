@@ -1,7 +1,7 @@
 import { benchmarkRegister, comparisonMatrix, investmentPosture, payload, riskMap, summary, verification } from "./verticalBriefService.js";
 
 const productTitle = "Vertical Benchmark Comparator";
-const domain = "https://benchmark.kineticgain.com";
+const domain = "https://verticals.kineticgain.com";
 
 function escapeHtml(value: string) {
   return value.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");

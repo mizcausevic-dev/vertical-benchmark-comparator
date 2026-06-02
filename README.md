@@ -2,7 +2,7 @@
 
 Board-ready executive-intelligence surface for comparing vertical operating lanes, benchmark posture, and investment-readiness tradeoffs side by side.
 
-- Live: `http://benchmark.kineticgain.com/`
+- Live: `http://verticals.kineticgain.com/`
 - Repo: `mizcausevic-dev/vertical-benchmark-comparator`
 
 ## Why this matters

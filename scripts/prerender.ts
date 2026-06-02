@@ -31,10 +31,10 @@ for (const [, [filename, html]] of routes) {
   writeFileSync(target, html);
 }
 
-writeFileSync(path.join(root, "robots.txt"), "User-agent: *\nAllow: /\nSitemap: https://benchmark.kineticgain.com/sitemap.xml\n");
+writeFileSync(path.join(root, "robots.txt"), "User-agent: *\nAllow: /\nSitemap: https://verticals.kineticgain.com/sitemap.xml\n");
 writeFileSync(
   path.join(root, "sitemap.xml"),
-  `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://benchmark.kineticgain.com/</loc></url><url><loc>https://benchmark.kineticgain.com/benchmark-register/</loc></url><url><loc>https://benchmark.kineticgain.com/comparison-matrix/</loc></url><url><loc>https://benchmark.kineticgain.com/investment-posture/</loc></url><url><loc>https://benchmark.kineticgain.com/verification/</loc></url><url><loc>https://benchmark.kineticgain.com/docs/</loc></url></urlset>`
+  `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://verticals.kineticgain.com/</loc></url><url><loc>https://verticals.kineticgain.com/benchmark-register/</loc></url><url><loc>https://verticals.kineticgain.com/comparison-matrix/</loc></url><url><loc>https://verticals.kineticgain.com/investment-posture/</loc></url><url><loc>https://verticals.kineticgain.com/verification/</loc></url><url><loc>https://verticals.kineticgain.com/docs/</loc></url></urlset>`
 );
 
 const apiDir = path.join(publicDir, "api");
