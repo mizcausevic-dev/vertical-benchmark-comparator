@@ -1,0 +1,62 @@
+[
+  {
+    "lane": "AI governance and agent controls",
+    "verticalCluster": "AI governance",
+    "action": "INVEST",
+    "owner": "Chief AI Officer",
+    "audience": "Board technology committee",
+    "benchmarkNarrative": "AI governance is the clearest flagship lane for board-ready intelligence.",
+    "benchmarkScore": 91,
+    "nextMove": "Use AI governance as the benchmark reference lane for the rest of the portfolio."
+  },
+  {
+    "lane": "Procurement and trust operations",
+    "verticalCluster": "Procurement / trust",
+    "action": "INVEST",
+    "owner": "Chief Commercial Officer",
+    "audience": "Board growth committee",
+    "benchmarkNarrative": "Procurement is the best proof-reuse lane for buyer-facing scale.",
+    "benchmarkScore": 86,
+    "nextMove": "Package procurement as the proof-reuse benchmark for adjacent commercial surfaces."
+  },
+  {
+    "lane": "Biotech and diagnostics operations",
+    "verticalCluster": "Biotech / diagnostics",
+    "action": "MAINTAIN",
+    "owner": "Quality systems lead",
+    "audience": "Board compliance committee",
+    "benchmarkNarrative": "Biotech is a credible regulated-intelligence lane with strong seriousness signal.",
+    "benchmarkScore": 78,
+    "nextMove": "Package the regulated proof stack into one clearer benchmark brief."
+  },
+  {
+    "lane": "FinTech and treasury controls",
+    "verticalCluster": "FinTech",
+    "action": "WATCH",
+    "owner": "Chief Revenue Officer",
+    "audience": "Board finance committee",
+    "benchmarkNarrative": "Payments, treasury, and merchant review create a credible commercial wedge.",
+    "benchmarkScore": 72,
+    "nextMove": "Tighten the FinTech comparison packet before treating it as a top-tier expansion lane."
+  },
+  {
+    "lane": "Nonprofit and foundation ops",
+    "verticalCluster": "Nonprofit / foundation ops",
+    "action": "MAINTAIN",
+    "owner": "Principal operator",
+    "audience": "Board strategy committee",
+    "benchmarkNarrative": "Nonprofit is a reusable operating-shape lane, not just a one-off niche.",
+    "benchmarkScore": 74,
+    "nextMove": "Use nonprofit to prove operating-system transferability across very different sectors."
+  },
+  {
+    "lane": "Robotics and override operations",
+    "verticalCluster": "Robotics",
+    "action": "DEPRIORITIZE",
+    "owner": "Principal operator",
+    "audience": "Board innovation committee",
+    "benchmarkNarrative": "Robotics proves ambition and operator seriousness.",
+    "benchmarkScore": 61,
+    "nextMove": "Keep building proof, but deprioritize it relative to stronger commercial and diligence lanes."
+  }
+]
