@@ -62,6 +62,7 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
           local-dir: ./${{ env.DEPLOY_DIR }}/
           server-dir: /verticals/
           exclude: |
@@ -81,6 +82,7 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
           local-dir: ./${{ env.DEPLOY_DIR }}/
           server-dir: /verticals/
           exclude: |
